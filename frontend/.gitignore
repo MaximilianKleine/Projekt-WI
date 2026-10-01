@@ -1,0 +1,24 @@
+# Abhängigkeiten
+node_modules/
+
+# Build-Ausgabe
+dist/
+dist-ssr/
+
+# Vite-Cache (wird bei jedem npm install / Dev-Start neu erzeugt)
+.vite/
+
+# Umgebungsvariablen
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor / Betriebssystem
+.DS_Store
+.idea/
+.vscode/
+Thumbs.db

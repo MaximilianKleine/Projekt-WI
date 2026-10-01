@@ -1,0 +1,6 @@
+requests
+openai-whisper
+numpy
+flask
+pydub
+audioop-lts
